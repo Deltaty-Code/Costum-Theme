@@ -1,5 +1,4 @@
 # Costum-Theme
-
 1: open your Visual Studio Code 
 2: download this theme : monokai vibrant
 3: go to settings an write json 
