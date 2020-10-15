@@ -1,4 +1,4 @@
-# Costum-Theme 
+# My Costum-Theme 
           [Flow these steps]
 1: open your Visual Studio Code 
 2: download this theme : monokai vibrant
