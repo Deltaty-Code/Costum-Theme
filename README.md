@@ -7,6 +7,7 @@
 5: copy and paste the settings attatched 
  
             [Enjoy Coding ]
-![watch](https://i.postimg.cc/ncDNctfD/Screenshot-281.png)            
+![watch](https://i.postimg.cc/ncDNctfD/Screenshot-281.png)  
+![watch](https://i.postimg.cc/C1tYXHbT/Screenshot-282.png)    
             
             
